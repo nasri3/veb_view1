@@ -1,0 +1,109 @@
+#menug .well {
+	width: 170px;
+	margin-left: 25px;
+	margin-top: 50px;
+	line-height: 2px;;;;
+}
+#menug .mail {
+	background-color: #37474f;
+	height: 100px;
+	padding-top: 25px;
+	padding-left: 10px;
+	margin-top: -45px;
+}
+#menug .username {
+	margin-top: 15px;
+	font-size: 18px;
+	color: #eceff1;
+	line-height: 0px;
+}
+#menug #useremail {
+	font-size: 11px;
+	line-height: 1.45;
+	color: #b0bec5;
+}
+
+
+
+
+
+#menug .far fa-file {
+	color: black;
+}
+#menud {
+	padding-top: 100px;
+	background-color: #f1f1f0;
+	height: 200%;
+	position: fixed;
+	transform: translateX(500%);
+}
+
+
+
+
+
+.fa-copy:before, .fa-files-o:before {
+	content: "\f0c5";
+	color: darkslategray;
+}
+#corps {
+	padding-top: 140px;
+	padding-left: 250px;
+	transform: translateX(10%);
+}
+@media screen and (max-width: 767px) {
+}
+#exprimer {
+	width: 305px;
+	height: 25px;
+	color: #A47540;
+	border: solid 1px black;
+	margin-left: 180px;
+	margin-top: 20px;
+}
+input[type="submit"] {
+	margin-left: 180px;
+	color: #CC0000;
+	background-color: #FFCC00;
+}
+#img1 {
+	margin-top: 200px;
+}
+.img2 {
+	margin-left: 150px;
+	width: 100%;
+}
+.glyphicon-globe, .glyphicon-cog, .fa.fa-thumbs-o-up {
+	font-size: 21px;
+}
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+	position: fixed;
+	z-index: 9999;
+	width: 100%;
+}
+.row.content {
+	height: 450px;
+}
+#menug {
+	padding-top: 100px;
+	background-color: #263238;
+	height: 200%;
+	position: fixed;
+	transform: translateX(0%);
+}
+
+
+
+.thumbnail {
+	color: #468e46;
+}
+
+
+
+
+.fa-thumbs-o-up:before,  a {
+	content: "\f087";
+	color: green;
+}
